@@ -12,7 +12,7 @@ This is the high-level layout of stpaul.com:
 
 This is the high-level layout of splcthorndale.com:
 
-**Home**
+- **Home**
     - **Navigation Bar**
         - [`/calendar`](http://splcthorndale.com/calendar/)
         - [`/news-and-notes`](http://splcthorndale.com/news-and-notes/)
