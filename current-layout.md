@@ -8,7 +8,7 @@ When viewing the maps below, **bold** indicates a location or path, while non-bo
 
 This is the high-level layout of stpaulthorndale.com:
 
-**Home**
+- **Home**
     - Banner
     - **Navigation Bar**
         - [Praxi Portal](https://app.praxischool.com/parent_login.php)
